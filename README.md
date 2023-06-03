@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working with Node, Typescript, Express, Mocha,<br>MySQL and React. Using MSC Software Architecture<br><br>Looking forward to collaborate on incredible and bold projects, that make a difference on people lifes.<br><br>Currently deepening my knowledge in JS Back-end techs, as MongoDB,<br>as well learning POO and SOLID.<br><br>Fun fact: i love to make things<br>that would take 2 hours be done in 5min<br>through automation and scripts.<br>
+Currently working with Node, Typescript, Express, Mocha,<br>MySQL and React. Using MSC Software Architecture<br><br>Looking forward to collaborate on incredible and bold projects, that make a difference on people lifes.<br><br>Currently deepening my knowledge in JS Back-end techs, as MongoDB,<br>as well learning POO and SOLID.
 
 
 ## 🌐 Socials:
