@@ -1,6 +1,11 @@
 # 💫 About Me:
-Currently working with Node, Typescript, Express, Mocha,<br>MySQL and React. Using MSC Software Architecture<br><br>Looking forward to collaborate on incredible and bold projects, that make a difference on people lifes.<br><br>Currently deepening my knowledge in JS Back-end techs, as MongoDB,<br>as well learning POO and SOLID.
+In love with computers since 4 years old, has the very not nice habit of creating cheats and hacks for games as a teenager and now, after trying Gastronomy, Business and Eletrical Engeneering colleges, decided to become a Developer!
 
+Currently studying Software Architecture, Algorithms and Design patterns. 
+
+Fullstack developer with severe love for backend. Coding in Java, Typescript and Python.
+
+Looking forward to collaborate on incredible and bold projects, that make a difference on people lifes.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alan.mrtni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alangmartini) 
